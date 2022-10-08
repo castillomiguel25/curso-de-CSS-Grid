@@ -1,6 +1,6 @@
 
 
-/* ejercicio 1 */
+/* clase 1 */
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-/* ejercicio 2 */
+/* clase 2 */
 
 
 /* .container{
@@ -60,7 +60,7 @@
 
 
 
-/* ejercicio 3 */
+/* clase 3 */
 
 
 /* .container {
@@ -121,4 +121,32 @@ grid-template-rows: 75px 75px 75px;
 
 
 
-/* ejercicio 4 */
+/* clase 4 */
+
+/* minmax y repeat */
+
+/* 
+.container{
+    display: grid;
+    border: 5px solid black;
+    background: olivedrab;
+    grid-template-columns: minmax(30px, 300px ) minmax(60px,250px) 200px ;
+    grid-template-rows: repeat(3, auto)
+}
+
+.item {
+    font-size: 2rem;
+    border: 5px solid black;
+} */
+
+
+
+
+
+
+
+
+/* clase 5 */
+
+
+
