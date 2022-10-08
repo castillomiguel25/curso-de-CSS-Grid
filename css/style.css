@@ -1,21 +1,4 @@
-/* Propiedades para la alineación de los items (elementos):
 
-Justify-items
-Align-items
-Place-items
-
-Propiedades para la alineación del container(El Contenedor):
-
-Justify-content    alinear horizontalmente
-Align-content      alinear verticalmente 
-Place-content      es la union de justify-content y align-content
-
-
-Propiedades para la alineación de un solo item individual
-
-Justify-self
-Align-self
-Place-self */
 
 /* ejercicio 1 */
 
@@ -41,7 +24,12 @@ Place-self */
 } */
 
 
+
+
+
+
 /* ejercicio 2 */
+
 
 /* .container{
     background-color: floralwhite;
@@ -67,10 +55,15 @@ Place-self */
 
 
 
+
+
+
+
+
 /* ejercicio 3 */
 
 
-.container {
+/* .container {
 background-color: aquamarine;
 border: 5px solid black;
 display: grid;
@@ -86,12 +79,12 @@ grid-template-rows: 75px 75px 75px;
 
 .item-1 {
     background-color: orange;
-    border: 5px solid black;  
+    border: 5px solid black;   */
    /* grid-column-start: 2;
    grid-column-end: 4; */
    /* grid-row: 1/3;
    grid-area: 2/2/4/4; */
-}
+/* }
 
 .item-2 {
     background-color: blue;
@@ -120,4 +113,12 @@ grid-template-rows: 75px 75px 75px;
 .item-7 {
     background-color: hotpink;
     border: 5px solid black;  
-}
+} */
+
+
+
+
+
+
+
+/* ejercicio 4 */
